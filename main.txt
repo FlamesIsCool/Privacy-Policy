@@ -1,0 +1,4 @@
+Midnight Switch does not collect, store, or transmit any personal data.
+All settings (theme preference) are stored locally in your browser using the chrome.storage API.
+We do not access, share, or analyze your browsing activity, website content, or any form of user-identifiable information.
+This extension operates entirely on your device.
